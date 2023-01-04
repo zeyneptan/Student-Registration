@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# IDE0011: Küme ayracı ekle
+dotnet_diagnostic.IDE0011.severity = silent
+
+# CS0252: İstenmeden yapılmış olabilecek başvuru karşılaştırması, sol taraf için atama gerekiyor
+dotnet_diagnostic.CS0252.severity = silent
+
+# IDE0055: Biçimlendirme Düzeltme
+dotnet_diagnostic.IDE0055.severity = none

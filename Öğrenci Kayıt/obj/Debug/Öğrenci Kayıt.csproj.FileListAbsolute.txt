@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\bin\Debug\Öğrenci Kayıt.exe.config
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\bin\Debug\Öğrenci Kayıt.exe
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\bin\Debug\Öğrenci Kayıt.pdb
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\obj\Debug\Öğrenci Kayıt.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\obj\Debug\Öğrenci Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\obj\Debug\Öğrenci_Kayıt.Form1.resources
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\obj\Debug\Öğrenci_Kayıt.Properties.Resources.resources
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\obj\Debug\Öğrenci Kayıt.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\obj\Debug\Öğrenci Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\obj\Debug\Öğrenci Kayıt.exe
+C:\Users\user\source\repos\Öğrenci Kayıt\Öğrenci Kayıt\obj\Debug\Öğrenci Kayıt.pdb
